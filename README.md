@@ -1,91 +1,46 @@
-#  Marcelo Teixeira
+# 👨‍💻 Marcelo Teixeira
 
-**`Estudante de Engenharia da Computação`**
-
-Me chamo Marcelo Teixeira de Sousa Filho, tenho 24 anos e sou natural de Minas Gerais. Concluí o ensino médio no CEFET-MG Campus Leopoldina, com o curso técnico em Mecânica Industrial. Atualmente, estou cursando Engenharia da Comoputação pelo CEFET-MG Campus Leopoldina. Descobri minha paixão por tecnologia na pandemia e desde então busco apromorar meus conhecimentos na área. Atualmente sou bolsista do projeto de extensão Campus Aberto Atlética Panterão, que tem como objetivo fornecer oficinas esportivas para a comunidade externa e interna ao Campus. Voltando para a área de tecnologia, no projeto faço parte da equipe de desenvolvimento do site Atlética Panterão em multi linguagem. Confira o andamento da aplicação pelo link: "(https://atletica-panterao-leopoldina.netlify.app/)".
+🎓 Graduando em **Engenharia da Computação**  
+💻 Entusiasta de **programação Full Stack**  
+🌐 Atualmente estudando e desenvolvendo com **React.js**, **Nuxt.js** e **bancos de dados SQL**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Projetos em Destaque
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+🔹 [**Campus Aberto - Atlética Panterão**](https://atleticaleopoldina.netlify.app/)  
+Projeto de extensão focado na gestão esportiva da Atlética Panterão.
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+🔹 [**Campus Aberto**](https://campusaberto.netlify.app/)  
+Aplicação web desenvolvida para promover a interação entre o campus e a comunidade.
 
-<img 
-    align="left" 
-    alt="ReactJS"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+🔹 **Projeto de Iniciação Científica - IPAQ Move**  
+Desenvolvimento de ferramenta para coleta e análise de dados do Questionário IPAQ, voltado à atividade física.
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🧰 Tecnologias e Ferramentas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcelotsfilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=000)  
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=000)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="185" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelotsfilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
+---
 
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelotsfilho&show_icons=true&theme=default&hide=stars&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelotsfilho&layout=compact&theme=default"/>
 </p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-teixeira-574926311/)  
+📧 E-mail: marcelo.estudo.cefet@gmail.com
+
+---
